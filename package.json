@@ -1,0 +1,27 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logeethant/devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logeethant/devops/issues"
+  },
+  "homepage": "https://github.com/logeethant/devops#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
+}
